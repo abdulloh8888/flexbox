@@ -1,0 +1,41 @@
+
+header{
+     display: flex;
+   justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.qqq{
+    background-color: white;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+.box div{
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   background-color: red;
+    width: 400px;
+    justify-content: space-around;
+    border: 3px solid black;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+footer{
+     display: flex;
+   justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
